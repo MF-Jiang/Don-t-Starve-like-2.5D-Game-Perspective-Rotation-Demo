@@ -8,3 +8,14 @@ The purpose of this demo project is to showcase the implementation of perspectiv
 Whether you are interested in game development or a fan of 'Don't Starve,' this demo project offers an opportunity to personally experience a similar perspective rotation. Explore and feel the changes in perspective within a 2.5D environment, gaining a deeper understanding of the creative and implementation processes behind visual effects in games.
 
 All artwork is from the Unity Store.
+
+<table>
+  <tr>
+    <td>
+      <img src="Photo/1.png" alt="1" width="400px">
+    </td>
+    <td>
+      <img src="Photo/2.png" alt="2" width="400px">
+    </td>
+  </tr>
+</table>
