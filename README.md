@@ -12,10 +12,10 @@ All artwork is from the Unity Store.
 <table>
   <tr>
     <td>
-      <img src="Photo/1.png" alt="1" width="400px">
+      <img src="Photos/1.png" alt="1" width="400px">
     </td>
     <td>
-      <img src="Photo/2.png" alt="2" width="400px">
+      <img src="Photos/2.png" alt="2" width="400px">
     </td>
   </tr>
 </table>
